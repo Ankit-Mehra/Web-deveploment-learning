@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+<head>
+<title> ANKIT MEHRA COMP213 - HOMEPAGE </title>
+<meta charset= "utf-8">
+</head>
+
+<body style="background-color: rgba(247,247,151,0.10); color:green;font-family:system-ui;">
+<div style="width:980px;margin-left:auto;margin-right:auto;">
+<header>
+<img src= "logo.gif" alt= "SETAS logo">
+<hr style="border-style:solid; border-color:green; border-width:1px;">
+<h2 style="text-align: center;">COMP-213-Web Interface Design</h3>
+<h4 style="text-align: center;"> Student Name: Ankit Mehra- Student #301154845</h4>
+<hr style="border-style:solid; border-color:green; border-width:1px;">
+</header>
+<main>
+<p> #I'm a student in the <b>Software Engineering</b> program at Centennial college, i'hv started college in Fall-2020#</p>
+<p> #Previously i studied at Kurukshetra Unviersity in India  </p>
+<img src= "logo-new.gif" style= "width:380px; float:right;" alt= "cartoon of a programmer">
+<p> #My favorite brand of Phones is: Samsung<sup>&reg;</sup></p>
+<p> #I am intrested in Artifical Intelligence</p>
+<p> #One of my favorite quotes is :</p>
+<blockquote style="text-align: center;">
+<i><b>"Know Thyself"</b></i>
+<br>~unknown~
+</blockquote>
+<p> #We should drink plenty of H<sub>2</sub>O to stay well hydrated</p>
+<p> #Some of my favorite thing to do are:</p>
+<ul>
+	<li>Camping</li>
+	<li>Nature hiking</li>
+	<li>Reading</li>
+	<li>Meditating</li>
+	<li>Internet surfing</li>
+	<li>Watching movies</li>
+</ul>
+</main>
+<hr style="border-style:solid; border-color:green; border-width:1px;">
+<footer>
+<h4	 style="text-align: center;">&copy; &nbsp; Copyright Ankit Mehra-COMP213-Fall 2020</h6>
+</footer>
+<hr style="border-style:solid; border-color:green; border-width:1px;">
+</div>
+</body>
+</html>
